@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dodo/static/css/main.6a86c7be.chunk.css",
+    "main.js": "/dodo/static/js/main.c5775af3.chunk.js",
+    "main.js.map": "/dodo/static/js/main.c5775af3.chunk.js.map",
+    "runtime-main.js": "/dodo/static/js/runtime-main.1916cd0e.js",
+    "runtime-main.js.map": "/dodo/static/js/runtime-main.1916cd0e.js.map",
+    "static/js/2.cb25998f.chunk.js": "/dodo/static/js/2.cb25998f.chunk.js",
+    "static/js/2.cb25998f.chunk.js.map": "/dodo/static/js/2.cb25998f.chunk.js.map",
+    "index.html": "/dodo/index.html",
+    "static/css/main.6a86c7be.chunk.css.map": "/dodo/static/css/main.6a86c7be.chunk.css.map",
+    "static/js/2.cb25998f.chunk.js.LICENSE.txt": "/dodo/static/js/2.cb25998f.chunk.js.LICENSE.txt",
+    "static/media/1.1d3b92cf.JPG": "/dodo/static/media/1.1d3b92cf.JPG",
+    "static/media/2.dcbfe7a2.JPG": "/dodo/static/media/2.dcbfe7a2.JPG",
+    "static/media/3.5a5b7f87.JPG": "/dodo/static/media/3.5a5b7f87.JPG",
+    "static/media/4.e5e1c572.JPG": "/dodo/static/media/4.e5e1c572.JPG",
+    "static/media/5.39e4e5a5.JPG": "/dodo/static/media/5.39e4e5a5.JPG",
+    "static/media/6.e9bc02d7.JPG": "/dodo/static/media/6.e9bc02d7.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1916cd0e.js",
+    "static/js/2.cb25998f.chunk.js",
+    "static/css/main.6a86c7be.chunk.css",
+    "static/js/main.c5775af3.chunk.js"
+  ]
+}
